@@ -10,7 +10,7 @@ public class Temperatures {
         //Input Scanner
         Scanner input = new Scanner(System.in);
         // Print question on console
-        System.out.printf("Please enter a temperature and push enter to convert"
+        System.out.printf("Please enter a temperature in celcius to convert"
                 + " it to fahrenhiet: ");
         //set variables
         final String degree = "\u00b0";//unicode degree symbol
