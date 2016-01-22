@@ -5,7 +5,6 @@
         <data xmlns="http://www.netbeans.org/ns/j2se-project/3">
             <name>Week 2 HW</name>
             <source-roots>
-                <root id="src.Completed%20work.dir"/>
                 <root id="src.dir"/>
             </source-roots>
             <test-roots>
